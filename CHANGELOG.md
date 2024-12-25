@@ -1,5 +1,9 @@
 ## pdfkit changelog
 
+### Unreleased
+
+- Fix measuring text when OpenType features are passed in to .text()
+
 ### [v0.15.2] - 2024-12-15
 
 - Fix index not counting when rendering ordered lists (#1517)
