@@ -1,6 +1,6 @@
 ## pdfkit changelog
 
-### Unreleased
+### [v0.15.3] - 2025-01-01
 
 - Add support for spot colors
 - Add support to scale text horizontally
